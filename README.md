@@ -6,11 +6,13 @@ the data set was obtained from [data.gov.uk]('https://www.data.gov.uk/dataset/6e
 
 ## in the first run well this was the out put
 
-
+![path error](https://github.com/William-nyarash/dataScience/blob/main/src%20/images/path%20error.png)
 
 after  a bit of tweeking  it worked as expected
 
+*here ie the output*
 
+![succesful output](https://github.com/William-nyarash/dataScience/blob/main/src%20/images/run.png)
 
 ### feel free to play around with it .
 
