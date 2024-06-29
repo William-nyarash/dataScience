@@ -14,6 +14,10 @@ after  a bit of tweeking  it worked as expected
 
 ![succesful output](https://github.com/William-nyarash/dataScience/blob/main/src%20/images/run.png)
 
+**the ouput was : 0.033016144073033**
+
 ### feel free to play around with it .
 
 by forlking it 
+
+
